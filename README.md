@@ -1,2 +1,2 @@
-# dog-drawing
-Fan made drawing of mickey's dog 
+Donald Ducky
+Fan made drawing of donald ducky
